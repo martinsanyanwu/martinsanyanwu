@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @martinsanyanwu
-- 👀 I’m interested in data analysis
+- 👋 Hi, I’m Martins Anyanwu 
+- 👀 I’m passionate about working with data to extract insights 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me email: martinsanyanwu12@gmail.com
